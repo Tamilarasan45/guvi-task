@@ -1,0 +1,4 @@
+while TRUE:
+a=input("enter the character:")
+  if a=="q":
+    break
